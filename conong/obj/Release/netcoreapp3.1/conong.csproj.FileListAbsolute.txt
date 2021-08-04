@@ -1,0 +1,12 @@
+C:\Users\Xiuxiu\source\repos\conong\conong\bin\Release\netcoreapp3.1\conong.exe
+C:\Users\Xiuxiu\source\repos\conong\conong\bin\Release\netcoreapp3.1\conong.deps.json
+C:\Users\Xiuxiu\source\repos\conong\conong\bin\Release\netcoreapp3.1\conong.runtimeconfig.json
+C:\Users\Xiuxiu\source\repos\conong\conong\bin\Release\netcoreapp3.1\conong.runtimeconfig.dev.json
+C:\Users\Xiuxiu\source\repos\conong\conong\bin\Release\netcoreapp3.1\conong.dll
+C:\Users\Xiuxiu\source\repos\conong\conong\bin\Release\netcoreapp3.1\conong.pdb
+C:\Users\Xiuxiu\source\repos\conong\conong\obj\Release\netcoreapp3.1\conong.AssemblyInfoInputs.cache
+C:\Users\Xiuxiu\source\repos\conong\conong\obj\Release\netcoreapp3.1\conong.AssemblyInfo.cs
+C:\Users\Xiuxiu\source\repos\conong\conong\obj\Release\netcoreapp3.1\conong.csproj.CoreCompileInputs.cache
+C:\Users\Xiuxiu\source\repos\conong\conong\obj\Release\netcoreapp3.1\conong.dll
+C:\Users\Xiuxiu\source\repos\conong\conong\obj\Release\netcoreapp3.1\conong.pdb
+C:\Users\Xiuxiu\source\repos\conong\conong\obj\Release\netcoreapp3.1\conong.genruntimeconfig.cache
